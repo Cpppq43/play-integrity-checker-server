@@ -16,7 +16,5 @@
             "/api/check"
         ]
     },
-    "limits": {
-    },
     "placement": { "mode": "smart" }
 }
